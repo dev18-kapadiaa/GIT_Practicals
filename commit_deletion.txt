@@ -1,2 +1,1 @@
 This is the file for commit deletion...This is the initial commmit..
-Line : 2 --->  This commit is has to be deleted here..
