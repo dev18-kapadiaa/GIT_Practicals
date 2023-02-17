@@ -174,7 +174,7 @@ git cherry-pick 9e88267 (SHA value of --oneline for the latest commit meassage.)
 
 git push origin practical_4 
 ```
-After checkout to the git_practicals branch created another branch of practical-4. In which cherry_pick_file was created and commited under practical-4 branch. From this target_cherry_pick branch was created.In which target_cherry file was created and commited under target_cherry_pick branch. <br> 
+After checkout to the git_practicals branch we created another branch of practical-4. In which cherry_pick_file was created and commited under practical-4 branch. From this target_cherry_pick branch was created.In which target_cherry file was created and commited under target_cherry_pick branch. <br> 
 <p> Now we need to cherry pick commit with commit message "Target Cherry pick branch Commitment with target cherry file." So using git log --oneline we can get SHA Hashing value of corresponding commit. We will put this commit or cherry pick this commmit over practical_4 branch. </p>
 <p> Hence, now we have cherry-picked commit hased 9e88267 to the practical_4 branch. </p>
 
